@@ -1,0 +1,2 @@
+MAX_POINT = 21
+MIN_POINT = 16
